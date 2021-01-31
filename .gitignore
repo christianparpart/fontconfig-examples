@@ -1,0 +1,7 @@
+# Visual Studio Code
+/build/
+
+# VIM: code completion / IntelliSense
+/.clangd/
+/compile_commands.json
+/.vimspector.json
